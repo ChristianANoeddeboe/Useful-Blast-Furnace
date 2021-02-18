@@ -1,0 +1,12 @@
+{
+  "pack": {
+    "pack_format": 6,
+    "description": [
+      {
+        "text": "Now blasts all stone types, sand, terracotta and sponges.",
+        "color": "gold"
+      },
+      { "text": "\nAngercraft", "color": "yellow" }
+    ]
+  }
+}
